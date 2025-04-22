@@ -1,0 +1,420 @@
+5
+SecondTry_____________kills:__2/__2____
+4097.000000
+100.000000
+0.000000
+25.000000
+0.000000
+0.000000
+0.000000
+1.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+1
+SecondTry
+42.866272
+m
+mmnmmommommnonmmonqnmmo
+abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcba
+mmmmmaaaaammmmmaaaaaabcdefgabcdefg
+mamamamamama
+jklmnopqrstuvwxyzyxwvutsrqponmlkj
+nmonqnmomnmomomno
+mmmaaaabcdefgmmmmaaaammmaamm
+mmmaaammmaaammmabcdefaaaammmmabcdefmmmaaaa
+aaaaaaaazzzzzzzz
+mmamammmmammamamaaamammma
+abcdefghijklmnopqrrqponmlkjihgfedcba
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+a
+{
+"self" "1"
+"other" "0"
+"world" "0"
+"time" "42.849556"
+"frametime" "0.016715"
+"force_retouch" "0.000000"
+"mapname" "SecondTry"
+"deathmatch" "0.000000"
+"coop" "0.000000"
+"teamplay" "0.000000"
+"serverflags" "0.000000"
+"total_secrets" "0.000000"
+"total_monsters" "2.000000"
+"found_secrets" "0.000000"
+"killed_monsters" "2.000000"
+"parm1" "4097.000000"
+"parm2" "100.000000"
+"parm3" "0.000000"
+"parm4" "25.000000"
+"parm5" "0.000000"
+"parm6" "0.000000"
+"parm7" "0.000000"
+"parm8" "1.000000"
+"parm9" "0.000000"
+"parm10" "0.000000"
+"parm11" "0.000000"
+"parm12" "0.000000"
+"parm13" "0.000000"
+"parm14" "0.000000"
+"parm15" "0.000000"
+"parm16" "0.000000"
+"v_forward_x" "-0.993248"
+"v_forward_y" "-0.100712"
+"v_forward_z" "0.057588"
+"v_up_x" "0.057294"
+"v_up_y" "0.005809"
+"v_up_z" "0.998340"
+"v_right_x" "-0.100879"
+"v_right_y" "0.994899"
+"v_right_z" "-0.000000"
+"trace_allsolid" "0.000000"
+"trace_startsolid" "0.000000"
+"trace_fraction" "1.000000"
+"trace_endpos_x" "-272.000000"
+"trace_endpos_y" "432.000000"
+"trace_endpos_z" "0.031250"
+"trace_plane_normal_x" "0.000000"
+"trace_plane_normal_y" "0.000000"
+"trace_plane_normal_z" "0.000000"
+"trace_plane_dist" "0.000000"
+"trace_ent" "0"
+"trace_inopen" "1.000000"
+"trace_inwater" "0.000000"
+"msg_entity" "0"
+"VEC_ORIGIN_x" "0.000000"
+"VEC_ORIGIN_y" "0.000000"
+"VEC_ORIGIN_z" "0.000000"
+"VEC_HULL_MIN_x" "-16.000000"
+"VEC_HULL_MIN_y" "-16.000000"
+"VEC_HULL_MIN_z" "-24.000000"
+"VEC_HULL_MAX_x" "16.000000"
+"VEC_HULL_MAX_y" "16.000000"
+"VEC_HULL_MAX_z" "32.000000"
+"VEC_HULL2_MIN_x" "-32.000000"
+"VEC_HULL2_MIN_y" "-32.000000"
+"VEC_HULL2_MIN_z" "-24.000000"
+"VEC_HULL2_MAX_x" "32.000000"
+"VEC_HULL2_MAX_y" "32.000000"
+"VEC_HULL2_MAX_z" "64.000000"
+"movedist" "32.000000"
+"gameover" "0.000000"
+"string_null" ""
+"empty_float" "0.000000"
+"newmis" "0"
+"activator" "1"
+"damage_attacker" "1"
+"framecount" "2485.000000"
+"skill" "1.000000"
+"enemy_vis" "1.000000"
+"enemy_infront" "1.000000"
+"enemy_range" "1.000000"
+"enemy_yaw" "3.000000"
+"current_yaw" "0.000000"
+"sight_entity" "8"
+"sight_entity_time" "9.992505"
+"multi_ent" "0"
+"multi_damage" "0.000000"
+"lastspawn" "0"
+"bodyque_head" "2"
+"modelindex_eyes" "3.000000"
+"modelindex_player" "2.000000"
+"intermission_running" "0.000000"
+"intermission_exittime" "0.000000"
+"nextmap" ""
+"stemp" "0"
+"otemp" "0"
+"s" "0"
+"old" "0"
+"le1" "0"
+"le2" "0"
+"lightning_end" "0.000000"
+"hknight_type" "0.000000"
+"shub" "0"
+}
+{ // #0
+"modelindex" "1.000000"
+"movetype" "7.000000"
+"solid" "4.000000"
+"classname" "worldspawn"
+"model" "maps/SecondTry.bsp"
+"wad" "..\.\xtras\uake\renchbroom-quake-map-source\UAKE101.WAD"
+}
+{ // #1
+"modelindex" "2.000000"
+"absmin" "7.982872 429.024597 -0.968750"
+"absmax" "41.982872 463.024597 57.031250"
+"movetype" "3.000000"
+"solid" "3.000000"
+"origin" "24.982872 446.024597 24.031250"
+"oldorigin" "24.982872 446.024597 24.031250"
+"angles" "1.100464 -174.210205 0.000000"
+"punchangle" "-0.000000 0.000000 0.000000"
+"classname" "player"
+"model" "progs/player.mdl"
+"frame" "13.000000"
+"mins" "-16.000000 -16.000000 -24.000000"
+"maxs" "16.000000 16.000000 32.000000"
+"size" "32.000000 32.000000 56.000000"
+"think" "player_stand1"
+"nextthink" "42.923603"
+"health" "70.000000"
+"weapon" "32.000000"
+"weaponmodel" "progs/v_rock2.mdl"
+"currentammo" "2.000000"
+"ammo_shells" "25.000000"
+"ammo_rockets" "2.000000"
+"items" "5153.000000"
+"takedamage" "2.000000"
+"view_ofs" "0.000000 0.000000 22.000000"
+"v_angle" "-3.301392 -174.210205 0.000000"
+"netname" "player"
+"flags" "4616.000000"
+"colormap" "1.000000"
+"team" "1.000000"
+"max_health" "100.000000"
+"watertype" "-1.000000"
+"dmg_inflictor" "13"
+"th_pain" "player_pain"
+"th_die" "PlayerDie"
+"walkframe" "2.000000"
+"attack_finished" "14.423699"
+"show_hostile" "14.623699"
+"jump_flag" "-154.771362"
+"air_finished" "54.849556"
+"dmg" "2.000000"
+}
+{ // #2
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "3"
+}
+{ // #3
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "4"
+}
+{ // #4
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "5"
+}
+{ // #5
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "2"
+}
+{ // #6
+"absmin" "-17.000000 -17.000000 39.000000"
+"absmax" "-15.000000 -15.000000 41.000000"
+"origin" "-16.000000 -16.000000 40.000000"
+"classname" "info_player_start"
+}
+{ // #7
+"modelindex" "29.000000"
+"absmin" "-200.561874 346.690857 -0.968750"
+"absmax" "-166.561874 380.690857 57.031250"
+"movetype" "10.000000"
+"origin" "-183.561874 363.690857 0.031250"
+"angles" "0.000000 203.673767 0.000000"
+"classname" "monster_army"
+"model" "progs/h_guard.mdl"
+"mins" "-16.000000 -16.000000 0.000000"
+"maxs" "16.000000 16.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "SUB_Null"
+"use" "monster_use"
+"think" "army_run1"
+"nextthink" "-1.000000"
+"health" "-37.000000"
+"chain" "1"
+"view_ofs" "0.000000 0.000000 8.000000"
+"enemy" "1"
+"flags" "544.000000"
+"waterlevel" "-1.000000"
+"watertype" "-1.000000"
+"ideal_yaw" "45.000000"
+"yaw_speed" "20.000000"
+"goalentity" "1"
+"th_stand" "army_stand1"
+"th_walk" "army_walk1"
+"th_run" "army_run1"
+"th_missile" "army_atk1"
+"th_pain" "army_pain"
+"th_die" "army_die"
+"search_time" "15.804371"
+"attack_finished" "11.004368"
+"show_hostile" "11.804371"
+"pausetime" "100000000.000000"
+}
+{ // #8
+"modelindex" "30.000000"
+"absmin" "-239.221146 424.474579 -0.968750"
+"absmax" "-205.221146 458.474579 57.031250"
+"movetype" "10.000000"
+"origin" "-222.221146 441.474579 0.031250"
+"angles" "0.000000 531.794800 0.000000"
+"classname" "monster_dog"
+"model" "progs/h_dog.mdl"
+"mins" "-16.000000 -16.000000 0.000000"
+"maxs" "16.000000 16.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "SUB_Null"
+"use" "monster_use"
+"think" "dog_run9"
+"nextthink" "-1.000000"
+"health" "-84.000000"
+"view_ofs" "0.000000 0.000000 8.000000"
+"enemy" "1"
+"flags" "544.000000"
+"waterlevel" "-1.000000"
+"watertype" "-1.000000"
+"yaw_speed" "20.000000"
+"goalentity" "1"
+"th_stand" "dog_stand1"
+"th_walk" "dog_walk1"
+"th_run" "dog_run1"
+"th_missile" "dog_leap1"
+"th_melee" "dog_atta1"
+"th_pain" "dog_pain"
+"th_die" "dog_die"
+"search_time" "15.792508"
+"attack_finished" "10.992505"
+"show_hostile" "11.792508"
+"pausetime" "100000000.000000"
+}
+{ // #9
+}
+{ // #10
+"modelindex" "33.000000"
+"absmin" "-111.000000 241.000000 0.031250"
+"absmax" "-49.000000 303.000000 56.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "-96.000000 256.000000 0.031250"
+"classname" "item_shells"
+"model" "maps/b_shell0.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "ammo_touch"
+"think" "PlaceItem"
+"weapon" "1.000000"
+"chain" "7"
+"netname" "shells"
+"flags" "768.000000"
+"mdl" "maps/b_shell0.bsp"
+"aflag" "20.000000"
+}
+{ // #11
+"modelindex" "34.000000"
+"absmin" "-255.000000 -47.000000 16.031250"
+"absmax" "-193.000000 15.000000 72.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "-240.000000 -32.000000 16.031250"
+"classname" "item_health"
+"model" "maps/b_bh25.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "health_touch"
+"think" "PlaceItem"
+"flags" "768.000000"
+"noise" "items/health1.wav"
+"mdl" "maps/b_bh25.bsp"
+"healamount" "25.000000"
+"healtype" "1.000000"
+}
+{ // #12
+"modelindex" "35.000000"
+"absmin" "1.000000 -31.000000 0.031250"
+"absmax" "63.000000 31.000000 56.031250"
+"movetype" "6.000000"
+"origin" "32.000000 0.000000 0.031250"
+"classname" "weapon_rocketlauncher"
+"mins" "-16.000000 -16.000000 0.000000"
+"maxs" "16.000000 16.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "weapon_touch"
+"think" "SUB_regen"
+"weapon" "3.000000"
+"netname" "Rocket Launcher"
+"flags" "768.000000"
+"mdl" "progs/g_rock2.mdl"
+}
+{ // #13
+}
+{ // #14
+}
+{ // #15
+}
+{ // #16
+}
+{ // #17
+}
+{ // #18
+}
+{ // #19
+}
+{ // #20
+}
+// 21 edicts

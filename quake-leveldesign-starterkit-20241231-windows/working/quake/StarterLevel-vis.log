@@ -1,0 +1,22 @@
+---- vis / ericw-tools 2.0.0-alpha8-64-gbbe39c7c ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+LoadBSPFile: 'StarterLevel.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+     6 leafs
+     6 clusters
+    12 portals
+Calculating Base Vis:
+Calculating Full Vis:
+Expanding clusters...
+average leafs visible: 5
+c_noclip: 0
+c_chains: 72
+visdatasize:6  compressed from 6
+Writing StarterLevel.bsp as Quake BSP bsp29
+0.00s elapsed
+
+
