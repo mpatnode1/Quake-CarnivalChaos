@@ -1,0 +1,22 @@
+---- vis / ericw-tools 2.0.0-alpha8-64-gbbe39c7c ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+LoadBSPFile: 'CarnivalChaos.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+   444 leafs
+   444 clusters
+  1353 portals
+Calculating Base Vis:
+Calculating Full Vis:
+Expanding clusters...
+average leafs visible: 155
+c_noclip: 0
+c_chains: 2841782
+visdatasize:21828  compressed from 24864
+Writing CarnivalChaos.bsp as Quake BSP bsp29
+1.80s elapsed
+
+
