@@ -1,0 +1,11 @@
+Heretic 1 Textures
+
+By Raven Software, (c) Raven Software
+
+Converted by Tronyn using the Doomtex program.
+
+Notes:
+
+These didn't convert awfully well to Quake, some work, some don't. This wad, in combination with Dilvish' wad which has
+textures based on those from Heretic, and a bit of editing ability yourself, is what you need to make a truly Heretic-styled
+level for Quake.

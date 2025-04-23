@@ -1,0 +1,538 @@
+5
+HauntedCastle_________kills:__0/__0____
+4097.000000
+100.000000
+0.000000
+25.000000
+0.000000
+0.000000
+0.000000
+1.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+1
+HauntedCastle
+260.695371
+m
+mmnmmommommnonmmonqnmmo
+abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcba
+mmmmmaaaaammmmmaaaaaabcdefgabcdefg
+mamamamamama
+jklmnopqrstuvwxyzyxwvutsrqponmlkj
+nmonqnmomnmomomno
+mmmaaaabcdefgmmmmaaaammmaamm
+mmmaaammmaaammmabcdefaaaammmmabcdefmmmaaaa
+aaaaaaaazzzzzzzz
+mmamammmmammamamaaamammma
+abcdefghijklmnopqrrqponmlkjihgfedcba
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+a
+{
+"self" "1"
+"other" "0"
+"world" "0"
+"time" "260.679382"
+"frametime" "0.015996"
+"force_retouch" "0.000000"
+"mapname" "HauntedCastle"
+"deathmatch" "0.000000"
+"coop" "0.000000"
+"teamplay" "0.000000"
+"serverflags" "0.000000"
+"total_secrets" "0.000000"
+"total_monsters" "0.000000"
+"found_secrets" "0.000000"
+"killed_monsters" "0.000000"
+"parm1" "4097.000000"
+"parm2" "100.000000"
+"parm3" "0.000000"
+"parm4" "25.000000"
+"parm5" "0.000000"
+"parm6" "0.000000"
+"parm7" "0.000000"
+"parm8" "1.000000"
+"parm9" "0.000000"
+"parm10" "0.000000"
+"parm11" "0.000000"
+"parm12" "0.000000"
+"parm13" "0.000000"
+"parm14" "0.000000"
+"parm15" "0.000000"
+"parm16" "0.000000"
+"v_forward_x" "-0.178531"
+"v_forward_y" "-0.982959"
+"v_forward_z" "0.043800"
+"v_up_x" "0.007827"
+"v_up_y" "0.043095"
+"v_up_z" "0.999040"
+"v_right_x" "-0.983903"
+"v_right_y" "0.178702"
+"v_right_z" "-0.000000"
+"trace_allsolid" "0.000000"
+"trace_startsolid" "0.000000"
+"trace_fraction" "0.209980"
+"trace_endpos_x" "1951.968750"
+"trace_endpos_y" "422.223694"
+"trace_endpos_z" "74.450539"
+"trace_plane_normal_x" "-1.000000"
+"trace_plane_normal_y" "0.000000"
+"trace_plane_normal_z" "0.000000"
+"trace_plane_dist" "-1952.000000"
+"trace_ent" "0"
+"trace_inopen" "1.000000"
+"trace_inwater" "1.000000"
+"msg_entity" "0"
+"VEC_ORIGIN_x" "0.000000"
+"VEC_ORIGIN_y" "0.000000"
+"VEC_ORIGIN_z" "0.000000"
+"VEC_HULL_MIN_x" "-16.000000"
+"VEC_HULL_MIN_y" "-16.000000"
+"VEC_HULL_MIN_z" "-24.000000"
+"VEC_HULL_MAX_x" "16.000000"
+"VEC_HULL_MAX_y" "16.000000"
+"VEC_HULL_MAX_z" "32.000000"
+"VEC_HULL2_MIN_x" "-32.000000"
+"VEC_HULL2_MIN_y" "-32.000000"
+"VEC_HULL2_MIN_z" "-24.000000"
+"VEC_HULL2_MAX_x" "32.000000"
+"VEC_HULL2_MAX_y" "32.000000"
+"VEC_HULL2_MAX_z" "64.000000"
+"movedist" "0.000000"
+"gameover" "0.000000"
+"string_null" ""
+"empty_float" "0.000000"
+"newmis" "0"
+"activator" "1"
+"damage_attacker" "0"
+"framecount" "16205.000000"
+"skill" "1.000000"
+"enemy_vis" "0.000000"
+"enemy_infront" "0.000000"
+"enemy_range" "0.000000"
+"enemy_yaw" "0.000000"
+"current_yaw" "0.000000"
+"sight_entity" "0"
+"sight_entity_time" "0.000000"
+"multi_ent" "0"
+"multi_damage" "0.000000"
+"lastspawn" "0"
+"bodyque_head" "2"
+"modelindex_eyes" "3.000000"
+"modelindex_player" "2.000000"
+"intermission_running" "0.000000"
+"intermission_exittime" "0.000000"
+"nextmap" ""
+"stemp" "0"
+"otemp" "0"
+"s" "0"
+"old" "0"
+"le1" "0"
+"le2" "0"
+"lightning_end" "0.000000"
+"hknight_type" "0.000000"
+"shub" "0"
+}
+{ // #0
+"modelindex" "1.000000"
+"movetype" "7.000000"
+"solid" "4.000000"
+"classname" "worldspawn"
+"model" "maps/HauntedCastle.bsp"
+"wad" "..\xtras\uake\ads\hicosruin_Q1.wad;..\xtras\uake\ads\eretictex.wad;..\xtras\uake\ads\iles.wad;..\xtras\uake\ads\kt\ktE1.wad;..\xtras\uake\ads\kt\ktE2.wad;..\xtras\uake\ads\kt\ktE3.wad;..\xtras\uake\ads\kt\ktE4.wad;C:/Users/mpatn/Documents/GitHub/Castle-Quake/quake-leveldesign-starterkit-20241231-windows/extras/quake/wads/tiles.wad;C:/Users/mpatn/Documents/GitHub/Castle-Quake/quake-leveldesign-starterkit-20241231-windows/extras/quake/wads/Heretictex.wad;C:/Users/mpatn/Documents/GitHub/Castle-Quake/quake-leveldesign-starterkit-20241231-windows/extras/quake/wads/chicosruin_Q1.wad;C:/Users/mpatn/Documents/GitHub/Castle-Quake/quake-leveldesign-starterkit-20241231-windows/extras/quake/wads/dkt/DktE1.wad;C:/Users/mpatn/Documents/GitHub/Castle-Quake/quake-leveldesign-starterkit-20241231-windows/extras/quake/wads/dkt/DktE2.wad;C:/Users/mpatn/Documents/GitHub/Castle-Quake/quake-leveldesign-starterkit-20241231-windows/extras/quake/wads/dkt/DktE3.wad;C:/Users/mpatn/Documents/GitHub/Castle"
+}
+{ // #1
+"modelindex" "2.000000"
+"absmin" "1502.815186 -209.208557 -0.969406"
+"absmax" "1536.815186 -175.208557 57.030594"
+"movetype" "3.000000"
+"solid" "3.000000"
+"origin" "1519.815186 -192.208557 24.030594"
+"oldorigin" "1519.727417 -191.213623 24.030594"
+"velocity" "5.486494 -62.199009 0.000000"
+"angles" "0.836792 -100.294189 -0.727610"
+"punchangle" "-0.000000 0.000000 0.000000"
+"classname" "player"
+"model" "progs/player.mdl"
+"frame" "11.000000"
+"mins" "-16.000000 -16.000000 -24.000000"
+"maxs" "16.000000 16.000000 32.000000"
+"size" "32.000000 32.000000 56.000000"
+"think" "player_run"
+"nextthink" "260.748993"
+"health" "100.000000"
+"weapon" "2.000000"
+"weaponmodel" "progs/v_shot2.mdl"
+"currentammo" "70.000000"
+"ammo_shells" "70.000000"
+"ammo_cells" "8.000000"
+"items" "4419.000000"
+"takedamage" "2.000000"
+"view_ofs" "0.000000 0.000000 22.000000"
+"v_angle" "-2.510376 -100.294189 0.000000"
+"netname" "player"
+"flags" "4616.000000"
+"colormap" "1.000000"
+"team" "1.000000"
+"max_health" "100.000000"
+"watertype" "-1.000000"
+"th_pain" "player_pain"
+"th_die" "PlayerDie"
+"walkframe" "6.000000"
+"attack_finished" "201.852234"
+"show_hostile" "202.452225"
+"jump_flag" "-153.632782"
+"air_finished" "272.679382"
+"t_width" "202.052231"
+"dmg" "2.000000"
+}
+{ // #2
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "3"
+}
+{ // #3
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "4"
+}
+{ // #4
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "5"
+}
+{ // #5
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "2"
+}
+{ // #6
+"absmin" "41.000000 -230.000000 27.000000"
+"absmax" "43.000000 -228.000000 29.000000"
+"origin" "42.000000 -229.000000 28.000000"
+"classname" "info_player_start"
+}
+{ // #7
+"absmin" "895.000000 -497.000000 27.000000"
+"absmax" "897.000000 -495.000000 29.000000"
+"origin" "896.000000 -496.000000 28.000000"
+"angles" "0.000000 90.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #8
+"absmin" "1695.000000 -1105.000000 23.000000"
+"absmax" "1697.000000 -1103.000000 25.000000"
+"origin" "1696.000000 -1104.000000 24.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #9
+"absmin" "239.000000 143.000000 23.000000"
+"absmax" "241.000000 145.000000 25.000000"
+"origin" "240.000000 144.000000 24.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #10
+"absmin" "1103.000000 -129.000000 23.000000"
+"absmax" "1105.000000 -127.000000 25.000000"
+"origin" "1104.000000 -128.000000 24.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #11
+"absmin" "639.000000 -801.000000 119.000000"
+"absmax" "641.000000 -799.000000 121.000000"
+"origin" "640.000000 -800.000000 120.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #12
+"absmin" "303.000000 -929.000000 39.000000"
+"absmax" "305.000000 -927.000000 41.000000"
+"origin" "304.000000 -928.000000 40.000000"
+"angles" "0.000000 255.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #13
+"absmin" "-1.000000 127.000000 95.000000"
+"absmax" "1.000000 129.000000 97.000000"
+"origin" "0.000000 128.000000 96.000000"
+"angles" "0.000000 255.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #14
+"absmin" "1135.000000 -385.000000 231.000000"
+"absmax" "1137.000000 -383.000000 233.000000"
+"origin" "1136.000000 -384.000000 232.000000"
+"angles" "0.000000 285.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #15
+"absmin" "1087.000000 15.000000 263.000000"
+"absmax" "1089.000000 17.000000 265.000000"
+"origin" "1088.000000 16.000000 264.000000"
+"angles" "0.000000 75.000000 0.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #16
+"modelindex" "28.000000"
+"absmin" "1441.000000 -1343.000000 0.031250"
+"absmax" "1503.000000 -1281.000000 56.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "1456.000000 -1328.000000 0.031250"
+"classname" "item_health"
+"model" "maps/b_bh25.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "health_touch"
+"think" "PlaceItem"
+"flags" "768.000000"
+"noise" "items/health1.wav"
+"mdl" "maps/b_bh25.bsp"
+"healamount" "25.000000"
+"healtype" "1.000000"
+}
+{ // #17
+"modelindex" "29.000000"
+"absmin" "1569.000000 -1343.000000 0.031250"
+"absmax" "1631.000000 -1281.000000 56.031250"
+"movetype" "6.000000"
+"origin" "1584.000000 -1328.000000 0.031250"
+"classname" "item_shells"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "ammo_touch"
+"think" "SUB_regen"
+"weapon" "1.000000"
+"netname" "shells"
+"flags" "768.000000"
+"mdl" "maps/b_shell0.bsp"
+"aflag" "20.000000"
+}
+{ // #18
+"modelindex" "30.000000"
+"absmin" "1681.000000 -255.000000 208.031250"
+"absmax" "1743.000000 -193.000000 264.031250"
+"movetype" "6.000000"
+"origin" "1712.000000 -224.000000 208.031250"
+"angles" "0.000000 90.000000 0.000000"
+"classname" "weapon_supershotgun"
+"mins" "-16.000000 -16.000000 0.000000"
+"maxs" "16.000000 16.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "weapon_touch"
+"think" "SUB_regen"
+"weapon" "2.000000"
+"netname" "Double-barrelled Shotgun"
+"flags" "768.000000"
+"mdl" "progs/g_shot.mdl"
+}
+{ // #19
+"modelindex" "31.000000"
+"absmin" "-15.000000 -351.000000 0.031250"
+"absmax" "47.000000 -289.000000 56.031250"
+"movetype" "6.000000"
+"origin" "16.000000 -320.000000 0.031250"
+"angles" "0.000000 90.000000 0.000000"
+"classname" "weapon_lightning"
+"mins" "-16.000000 -16.000000 0.000000"
+"maxs" "16.000000 16.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "weapon_touch"
+"think" "SUB_regen"
+"weapon" "3.000000"
+"netname" "Thunderbolt"
+"flags" "768.000000"
+"mdl" "progs/g_light.mdl"
+}
+{ // #20
+"modelindex" "29.000000"
+"absmin" "241.000000 -703.000000 0.031250"
+"absmax" "303.000000 -641.000000 56.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "256.000000 -688.000000 0.031250"
+"classname" "item_shells"
+"model" "maps/b_shell0.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "ammo_touch"
+"think" "PlaceItem"
+"weapon" "1.000000"
+"netname" "shells"
+"flags" "768.000000"
+"mdl" "maps/b_shell0.bsp"
+"aflag" "20.000000"
+}
+{ // #21
+"modelindex" "28.000000"
+"absmin" "481.000000 -831.000000 96.031250"
+"absmax" "543.000000 -769.000000 152.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "496.000000 -816.000000 96.031250"
+"classname" "item_health"
+"model" "maps/b_bh25.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "health_touch"
+"think" "PlaceItem"
+"flags" "768.000000"
+"noise" "items/health1.wav"
+"mdl" "maps/b_bh25.bsp"
+"healamount" "25.000000"
+"healtype" "1.000000"
+}
+{ // #22
+"modelindex" "29.000000"
+"absmin" "641.000000 -1055.000000 16.031250"
+"absmax" "703.000000 -993.000000 72.031250"
+"movetype" "6.000000"
+"origin" "656.000000 -1040.000000 16.031250"
+"classname" "item_shells"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "ammo_touch"
+"think" "SUB_regen"
+"weapon" "1.000000"
+"netname" "shells"
+"flags" "768.000000"
+"mdl" "maps/b_shell0.bsp"
+"aflag" "20.000000"
+}
+{ // #23
+"modelindex" "29.000000"
+"absmin" "1713.000000 -287.000000 0.031250"
+"absmax" "1775.000000 -225.000000 56.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "1728.000000 -272.000000 0.031250"
+"classname" "item_shells"
+"model" "maps/b_shell0.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "ammo_touch"
+"think" "PlaceItem"
+"weapon" "1.000000"
+"netname" "shells"
+"flags" "768.000000"
+"mdl" "maps/b_shell0.bsp"
+"aflag" "20.000000"
+}
+{ // #24
+"modelindex" "29.000000"
+"absmin" "913.000000 257.000000 16.031250"
+"absmax" "975.000000 319.000000 72.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "928.000000 272.000000 16.031250"
+"classname" "item_shells"
+"model" "maps/b_shell0.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "ammo_touch"
+"think" "PlaceItem"
+"weapon" "1.000000"
+"netname" "shells"
+"flags" "768.000000"
+"mdl" "maps/b_shell0.bsp"
+"aflag" "20.000000"
+}
+{ // #25
+"modelindex" "28.000000"
+"absmin" "961.000000 241.000000 16.031250"
+"absmax" "1023.000000 303.000000 72.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "976.000000 256.000000 16.031250"
+"classname" "item_health"
+"model" "maps/b_bh25.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "health_touch"
+"think" "PlaceItem"
+"flags" "768.000000"
+"noise" "items/health1.wav"
+"mdl" "maps/b_bh25.bsp"
+"healamount" "25.000000"
+"healtype" "1.000000"
+}
+{ // #26
+"modelindex" "28.000000"
+"absmin" "1057.000000 -719.000000 0.031250"
+"absmax" "1119.000000 -657.000000 56.031250"
+"movetype" "6.000000"
+"solid" "1.000000"
+"origin" "1072.000000 -704.000000 0.031250"
+"classname" "item_health"
+"model" "maps/b_bh25.bsp"
+"maxs" "32.000000 32.000000 56.000000"
+"size" "32.000000 32.000000 56.000000"
+"touch" "health_touch"
+"think" "PlaceItem"
+"flags" "768.000000"
+"noise" "items/health1.wav"
+"mdl" "maps/b_bh25.bsp"
+"healamount" "25.000000"
+"healtype" "1.000000"
+}
+{ // #27
+}
+// 28 edicts

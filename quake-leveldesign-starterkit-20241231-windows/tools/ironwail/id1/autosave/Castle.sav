@@ -1,0 +1,318 @@
+5
+Castle________________kills:__0/__0____
+4097.000000
+100.000000
+0.000000
+25.000000
+0.000000
+0.000000
+0.000000
+1.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+0.000000
+1
+Castle
+30.014278
+m
+mmnmmommommnonmmonqnmmo
+abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcba
+mmmmmaaaaammmmmaaaaaabcdefgabcdefg
+mamamamamama
+jklmnopqrstuvwxyzyxwvutsrqponmlkj
+nmonqnmomnmomomno
+mmmaaaabcdefgmmmmaaaammmaamm
+mmmaaammmaaammmabcdefaaaammmmabcdefmmmaaaa
+aaaaaaaazzzzzzzz
+mmamammmmammamamaaamammma
+abcdefghijklmnopqrrqponmlkjihgfedcba
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+a
+{
+"self" "1"
+"other" "0"
+"world" "0"
+"time" "29.998281"
+"frametime" "0.015996"
+"force_retouch" "0.000000"
+"mapname" "Castle"
+"deathmatch" "0.000000"
+"coop" "0.000000"
+"teamplay" "0.000000"
+"serverflags" "0.000000"
+"total_secrets" "0.000000"
+"total_monsters" "0.000000"
+"found_secrets" "0.000000"
+"killed_monsters" "0.000000"
+"parm1" "4097.000000"
+"parm2" "100.000000"
+"parm3" "0.000000"
+"parm4" "25.000000"
+"parm5" "0.000000"
+"parm6" "0.000000"
+"parm7" "0.000000"
+"parm8" "1.000000"
+"parm9" "0.000000"
+"parm10" "0.000000"
+"parm11" "0.000000"
+"parm12" "0.000000"
+"parm13" "0.000000"
+"parm14" "0.000000"
+"parm15" "0.000000"
+"parm16" "0.000000"
+"v_forward_x" "-0.985534"
+"v_forward_y" "-0.060548"
+"v_forward_z" "-0.158290"
+"v_up_x" "-0.157992"
+"v_up_y" "-0.009706"
+"v_up_z" "0.987393"
+"v_right_x" "-0.061321"
+"v_right_y" "0.998118"
+"v_right_z" "-0.000000"
+"trace_allsolid" "0.000000"
+"trace_startsolid" "0.000000"
+"trace_fraction" "0.000000"
+"trace_endpos_x" "0.000000"
+"trace_endpos_y" "0.000000"
+"trace_endpos_z" "0.000000"
+"trace_plane_normal_x" "0.000000"
+"trace_plane_normal_y" "0.000000"
+"trace_plane_normal_z" "0.000000"
+"trace_plane_dist" "0.000000"
+"trace_ent" "0"
+"trace_inopen" "0.000000"
+"trace_inwater" "0.000000"
+"msg_entity" "0"
+"VEC_ORIGIN_x" "0.000000"
+"VEC_ORIGIN_y" "0.000000"
+"VEC_ORIGIN_z" "0.000000"
+"VEC_HULL_MIN_x" "-16.000000"
+"VEC_HULL_MIN_y" "-16.000000"
+"VEC_HULL_MIN_z" "-24.000000"
+"VEC_HULL_MAX_x" "16.000000"
+"VEC_HULL_MAX_y" "16.000000"
+"VEC_HULL_MAX_z" "32.000000"
+"VEC_HULL2_MIN_x" "-32.000000"
+"VEC_HULL2_MIN_y" "-32.000000"
+"VEC_HULL2_MIN_z" "-24.000000"
+"VEC_HULL2_MAX_x" "32.000000"
+"VEC_HULL2_MAX_y" "32.000000"
+"VEC_HULL2_MAX_z" "64.000000"
+"movedist" "0.000000"
+"gameover" "0.000000"
+"string_null" ""
+"empty_float" "0.000000"
+"newmis" "0"
+"activator" "0"
+"damage_attacker" "0"
+"framecount" "1800.000000"
+"skill" "1.000000"
+"enemy_vis" "0.000000"
+"enemy_infront" "0.000000"
+"enemy_range" "0.000000"
+"enemy_yaw" "0.000000"
+"current_yaw" "0.000000"
+"sight_entity" "0"
+"sight_entity_time" "0.000000"
+"multi_ent" "0"
+"multi_damage" "0.000000"
+"lastspawn" "0"
+"bodyque_head" "2"
+"modelindex_eyes" "3.000000"
+"modelindex_player" "2.000000"
+"intermission_running" "0.000000"
+"intermission_exittime" "0.000000"
+"nextmap" ""
+"stemp" "0"
+"otemp" "0"
+"s" "0"
+"old" "0"
+"le1" "0"
+"le2" "0"
+"lightning_end" "0.000000"
+"hknight_type" "0.000000"
+"shub" "0"
+}
+{ // #0
+"modelindex" "1.000000"
+"movetype" "7.000000"
+"solid" "4.000000"
+"classname" "worldspawn"
+"model" "maps/Castle.bsp"
+"wad" "..\.\xtras\uake\rototype-wad\rototype_basic_1_3.wad;..\.\.\.\.\.\.\.\uake-leveldesign-starterkit-20241231-windows\xtras\uake\rototype-wad\rototype_basic_1_3.wad;..\.\xtras\uake\rototype-wad\rototype_skies_1_3.wad"
+}
+{ // #1
+"modelindex" "2.000000"
+"absmin" "-30.000000 -550.000000 97.000000"
+"absmax" "4.000000 -516.000000 155.000000"
+"movetype" "3.000000"
+"solid" "3.000000"
+"origin" "-13.000000 -533.000000 122.000000"
+"oldorigin" "-13.000000 -533.000000 122.000000"
+"angles" "-3.035889 -176.484375 0.000000"
+"classname" "player"
+"model" "progs/player.mdl"
+"frame" "15.000000"
+"mins" "-16.000000 -16.000000 -24.000000"
+"maxs" "16.000000 16.000000 32.000000"
+"size" "32.000000 32.000000 56.000000"
+"think" "player_stand1"
+"nextthink" "30.071747"
+"health" "100.000000"
+"weapon" "1.000000"
+"weaponmodel" "progs/v_shot.mdl"
+"currentammo" "25.000000"
+"ammo_shells" "25.000000"
+"items" "4353.000000"
+"takedamage" "2.000000"
+"view_ofs" "0.000000 0.000000 22.000000"
+"v_angle" "9.107666 -176.484375 0.000000"
+"netname" "player"
+"flags" "4616.000000"
+"colormap" "1.000000"
+"team" "1.000000"
+"max_health" "100.000000"
+"watertype" "-1.000000"
+"th_pain" "player_pain"
+"th_die" "PlayerDie"
+"walkframe" "4.000000"
+"attack_finished" "1.271668"
+"air_finished" "41.998283"
+"dmg" "2.000000"
+}
+{ // #2
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "3"
+}
+{ // #3
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "4"
+}
+{ // #4
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "5"
+}
+{ // #5
+"absmin" "-1.000000 -1.000000 -1.000000"
+"absmax" "1.000000 1.000000 1.000000"
+"classname" "bodyque"
+"owner" "2"
+}
+{ // #6
+"absmin" "-417.000000 -69.000000 23.000000"
+"absmax" "-415.000000 -67.000000 25.000000"
+"origin" "-416.000000 -68.000000 24.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #7
+"absmin" "-481.000000 -297.000000 107.000000"
+"absmax" "-479.000000 -295.000000 109.000000"
+"origin" "-480.000000 -296.000000 108.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #8
+"absmin" "171.000000 -421.000000 151.000000"
+"absmax" "173.000000 -419.000000 153.000000"
+"origin" "172.000000 -420.000000 152.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #9
+"absmin" "-313.000000 -697.000000 23.000000"
+"absmax" "-311.000000 -695.000000 25.000000"
+"origin" "-312.000000 -696.000000 24.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #10
+"absmin" "39.000000 -269.000000 23.000000"
+"absmax" "41.000000 -267.000000 25.000000"
+"origin" "40.000000 -268.000000 24.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #11
+"absmin" "67.000000 -113.000000 121.000000"
+"absmax" "69.000000 -111.000000 123.000000"
+"origin" "68.000000 -112.000000 122.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #12
+"absmin" "-273.000000 -441.000000 27.000000"
+"absmax" "-271.000000 -439.000000 29.000000"
+"origin" "-272.000000 -440.000000 28.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #13
+"absmin" "15.000000 -693.000000 23.000000"
+"absmax" "17.000000 -691.000000 25.000000"
+"origin" "16.000000 -692.000000 24.000000"
+"classname" "info_player_deathmatch"
+}
+{ // #14
+"absmin" "-13.000000 -533.000000 119.000000"
+"absmax" "-11.000000 -531.000000 121.000000"
+"origin" "-12.000000 -532.000000 120.000000"
+"classname" "info_player_start"
+}
+{ // #15
+}
+// 16 edicts

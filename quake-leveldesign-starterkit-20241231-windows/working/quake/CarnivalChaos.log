@@ -1,0 +1,93 @@
+---- qbsp / ericw-tools 2.0.0-alpha8-64-gbbe39c7c ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Input file: C:\Users\mpatn\Documents\GitHub\Quake-CarnivalChaos\quake-leveldesign-starterkit-20241231-windows\working\quake\CarnivalChaos-compile.map
+Output file: C:\Users\mpatn\Documents\GitHub\Quake-CarnivalChaos\quake-leveldesign-starterkit-20241231-windows\working\quake\CarnivalChaos.bsp
+
+INFO: using built-in palette.
+WARNING: CarnivalChaos-compile.map[line 6]: Unrecognised string escape - \p
+WARNING: CarnivalChaos-compile.map[line 6]: Unrecognised string escape - \p
+     41 entities
+     15 unique textures
+    288 texinfos
+    710 unique planes
+
+INFO: world extents calculated to 4330 units
+      215 brushes
+    1,293 sides
+      238 side bevels
+
+            3 texture frames added
+WARNING: unable to find texture skip
+WARNING: unable to find texture __TB_empty
+Processing hull 0...
+    194 SOLID brushes
+    194 brushes total
+    1,167 visible sides
+INFO: calculating BSP for 194 brushes with 1167 sides
+      194 brushes
+    1,167 visible faces
+    1,482 nodes
+    1,182 expensive split nodes
+      300 mid-split nodes
+    1,483 leaves
+      718 EMPTY leafs
+      765 SOLID leafs
+    1,483 leafs total
+    30 max tree height
+    15 avg tree height
+    169 tiny portals
+    6,434 tree portals
+WARNING: Reached occupant "monster_enforcer" at (125 -1138 32), no filling performed.
+Leak file written to CarnivalChaos.pts
+            4 portals written to CarnivalChaos.leak.prt
+    169 tiny portals
+    6,434 tree portals
+WARNING: 2 sides not found (use -verbose to display)
+    1,970 sides visible
+    1,970 makefaces
+      438 merged
+      192 subdivided
+    199 nodes pruned
+      718 EMPTY leafs
+      566 SOLID leafs
+    1,284 leafs total
+    29 max tree height
+    15 avg tree height
+        5 edges degenerated
+    1,305 edges added by tjunctions
+    1,673 faces optimized through MWT
+    4,692 triangles computed from MWT
+      314 faces created via optimization of MWT triangles
+    4,490 edges
+    2,038 faces
+Processing hull 1...
+WARNING: Reached occupant "monster_army" at (482 -1124 32), no filling performed.
+Processing hull 2...
+WARNING: Reached occupant "monster_enforcer" at (523 -1698 32), no filling performed.
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 299 >= 127)
+Writing CarnivalChaos.bsp as Quake BSP bsp29
+Wrote CarnivalChaos.bsp
+
+count   lump name    byte size 
+     22 models             1408
+   1341 planes            26820
+   2404 vertexes          28848
+   1409 nodes             33816
+    238 texinfos           9520
+   2164 faces             43280
+  16578 clipnodes        132624
+    866 leafs             24248
+   2479 marksurfaces       4958
+   4743 edges             18972
+   9325 surfedges         37300
+     18 textures         144876
+        lightdata             0
+        visdata               0
+        entdata            3863
+
+0.778s seconds elapsed
+
+
