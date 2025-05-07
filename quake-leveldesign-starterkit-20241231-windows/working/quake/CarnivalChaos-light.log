@@ -1,0 +1,37 @@
+---- light / ericw-tools 2.0.0-alpha8-64-gbbe39c7c ----
+LoadBSPFile: 'CarnivalChaos.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+Loading extended texinfo flags from CarnivalChaos.texinfo.json...
+WARNING: entity at (-12 -240 0) (weapon_nailgun) has empty key/value "targetname" ""
+WARNING: brush entity with mins [-43 -303 -127] maxs [19 -177 -1] (func_door) has empty key/value "wait" ""
+WARNING: brush entity with mins [-137.31123 -491 9] maxs [-137.21902 -461 85] (func_door) has empty key/value "target" ""
+WARNING: entity at (111 -679 33) (monster_dog) has empty key/value "target" ""
+WARNING: entity at (263 -559 32) (monster_army) has empty key/value "targetname" ""
+WARNING: brush entity with mins [-587 -1055 281] maxs [-493 -1041 407] (func_door) has empty key/value "target" ""
+65 entities read, 0 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	30 sky faces
+	2352 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 0 initial lights
+SetupLights: 0 after surface lights
+SetupLights: 0 after jittering
+Final count: 0 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 0
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing CarnivalChaos.bsp as Quake BSP bsp29
+0.117s seconds elapsed
+0 empty lightmaps
+
+

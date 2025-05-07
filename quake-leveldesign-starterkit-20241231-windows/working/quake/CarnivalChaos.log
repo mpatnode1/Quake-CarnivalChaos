@@ -12,14 +12,14 @@ WARNING: CarnivalChaos-compile.map[line 6]: Unrecognised string escape - \p
 WARNING: CarnivalChaos-compile.map[line 6]: Unrecognised string escape - \p
 WARNING: CarnivalChaos-compile.map[line 6]: Unrecognised string escape - \p
 WARNING: CarnivalChaos-compile.map[line 6]: Unrecognised string escape - \p
-     66 entities
+     65 entities
      20 unique textures
-    505 texinfos
-    948 unique planes
+    535 texinfos
+    958 unique planes
 
 INFO: world extents calculated to 4360 units
-      303 brushes
-    1,814 sides
+      304 brushes
+    1,820 sides
       338 side bevels
 
             2 texture frames added
@@ -32,61 +32,61 @@ Processing hull 0...
 INFO: calculating BSP for 258 brushes with 1542 sides
       258 brushes
     1,542 visible faces
-    2,686 nodes
-    2,193 expensive split nodes
+    2,685 nodes
+    2,192 expensive split nodes
       493 mid-split nodes
-    2,687 leaves
-    1,287 EMPTY leafs
+    2,686 leaves
+    1,284 EMPTY leafs
        28 SKY leafs
-    1,372 SOLID leafs
-    2,687 leafs total
+    1,374 SOLID leafs
+    2,686 leafs total
     33 max tree height
     15 avg tree height
-    198 tiny portals
+    194 tiny portals
     11,108 tree portals
-    333 outside leaves
+    332 outside leaves
     0 detail filled leafs
     258 brushes
-    945 visible faces
-    597 non-visible faces
-    1,390 nodes
-      334 non-visible nodes
-    1,390 expensive split nodes
-    1,391 leaves
-      591 EMPTY leafs
-      784 SOLID leafs
+    946 visible faces
+    596 non-visible faces
+    1,399 nodes
+      336 non-visible nodes
+    1,399 expensive split nodes
+    1,400 leaves
+      593 EMPTY leafs
+      791 SOLID leafs
        16 SKY leafs
-    1,391 leafs total
-    40 max tree height
-    18 avg tree height
-    156 tiny portals
-    6,280 tree portals
+    1,400 leafs total
+    43 max tree height
+    20 avg tree height
+    146 tiny portals
+    6,331 tree portals
     135 outside leaves
     0 detail filled leafs
-    156 tiny portals
-    6,280 tree portals
-    2,045 sides visible
-    2,045 makefaces
-      682 merged
-      538 subdivided
-    445 nodes pruned
-    78 tiny portals
-      472 player-occupiable leaves
-      472 clusters of leaves
-    1,461 vis portals
-    474 SOLID leafs
+    146 tiny portals
+    6,331 tree portals
+    2,075 sides visible
+    2,075 makefaces
+      702 merged
+      565 subdivided
+    449 nodes pruned
+    73 tiny portals
+      474 player-occupiable leaves
+      474 clusters of leaves
+    1,462 vis portals
+    477 SOLID leafs
      16 SKY leafs
-    456 EMPTY leafs
-    946 leafs total
-    39 max tree height
-    18 avg tree height
+    458 EMPTY leafs
+    951 leafs total
+    42 max tree height
+    19 avg tree height
         6 edges degenerated
-    1,822 edges added by tjunctions
-    1,849 faces optimized through MWT
-    5,560 triangles computed from MWT
-      449 faces created via optimization of MWT triangles
-    5,257 edges
-    2,350 faces
+    1,809 edges added by tjunctions
+    1,889 faces optimized through MWT
+    5,619 triangles computed from MWT
+      444 faces created via optimization of MWT triangles
+    5,312 edges
+    2,382 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 750 >= 127)
@@ -94,22 +94,22 @@ Writing CarnivalChaos.bsp as Quake BSP bsp29
 Wrote CarnivalChaos.bsp
 
 count   lump name    byte size 
-     32 models             2048
-   1223 planes            24460
-   2917 vertexes          35004
-   1152 nodes             27648
-    369 texinfos          14760
-   2576 faces             51520
-   3006 clipnodes         24048
-    711 leafs             19908
-   3141 marksurfaces       6282
-   5718 edges             22872
-  11235 surfedges         44940
+     33 models             2112
+   1236 planes            24720
+   2956 vertexes          35472
+   1163 nodes             27912
+    394 texinfos          15760
+   2614 faces             52280
+   3084 clipnodes         24672
+    720 leafs             20160
+   3194 marksurfaces       6388
+   5785 edges             23140
+  11379 surfedges         45516
      22 textures         243012
         lightdata             0
         visdata               0
-        entdata            6519
+        entdata            6471
 
-1.702s seconds elapsed
+1.065s seconds elapsed
 
 
