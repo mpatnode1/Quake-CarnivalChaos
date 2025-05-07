@@ -10,15 +10,16 @@ WARNING: brush entity with mins [-137.31123 -491 9] maxs [-137.21902 -461 85] (f
 WARNING: entity at (111 -679 33) (monster_dog) has empty key/value "target" ""
 WARNING: entity at (263 -559 32) (monster_army) has empty key/value "targetname" ""
 WARNING: brush entity with mins [-587 -1055 281] maxs [-493 -1041 407] (func_door) has empty key/value "target" ""
-65 entities read, 0 are lights.
+WARNING: brush entity with mins [-475 -1055 421] maxs [-381 -1041 571] (func_door) has empty key/value "target" ""
+80 entities read, 0 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
 
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	30 sky faces
-	2352 solid faces
+	39 sky faces
+	2576 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -31,7 +32,7 @@ Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing CarnivalChaos.bsp as Quake BSP bsp29
-0.117s seconds elapsed
+0.216s seconds elapsed
 0 empty lightmaps
 
 

@@ -6,17 +6,17 @@
 LoadBSPFile: 'CarnivalChaos.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-   474 leafs
-   474 clusters
-  1462 portals
+   516 leafs
+   516 clusters
+  1560 portals
 Calculating Base Vis:
 Calculating Full Vis:
 Expanding clusters...
-average leafs visible: 175
+average leafs visible: 181
 c_noclip: 0
-c_chains: 6238153
-visdatasize:25497  compressed from 28440
+c_chains: 8217129
+visdatasize:28770  compressed from 33540
 Writing CarnivalChaos.bsp as Quake BSP bsp29
-3.69s elapsed
+7.09s elapsed
 
 
