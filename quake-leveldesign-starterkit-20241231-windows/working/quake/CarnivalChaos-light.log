@@ -9,30 +9,30 @@ WARNING: brush entity with mins [-43 -303 -127] maxs [19 -177 -1] (func_door) ha
 WARNING: brush entity with mins [-137.31123 -491 9] maxs [-137.21902 -461 85] (func_door) has empty key/value "target" ""
 WARNING: entity at (111 -679 33) (monster_dog) has empty key/value "target" ""
 WARNING: entity at (263 -559 32) (monster_army) has empty key/value "targetname" ""
-WARNING: brush entity with mins [-587 -1055 281] maxs [-493 -1041 407] (func_door) has empty key/value "target" ""
-WARNING: brush entity with mins [-475 -1055 421] maxs [-381 -1041 571] (func_door) has empty key/value "target" ""
-80 entities read, 0 are lights.
+WARNING: brush entity with mins [-587 -1055 281] maxs [-493 -1041 415] (func_door) has empty key/value "target" ""
+WARNING: brush entity with mins [-475 -1087 421] maxs [-381 -1073 571] (func_door) has empty key/value "target" ""
+147 entities read, 65 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
 
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
-	39 sky faces
-	2576 solid faces
+	139 sky faces
+	2762 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 0 initial lights
-SetupLights: 0 after surface lights
-SetupLights: 0 after jittering
-Final count: 0 lights, 0 suns in use.
+SetupLights: 65 initial lights
+SetupLights: 65 after surface lights
+SetupLights: 65 after jittering
+Final count: 65 lights, 0 suns in use.
 0 surface light points in use.
-lightmap size (total): 0
+lightmap size (total): 63308
 Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing CarnivalChaos.bsp as Quake BSP bsp29
-0.216s seconds elapsed
+0.188s seconds elapsed
 0 empty lightmaps
 
 
